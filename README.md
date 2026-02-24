@@ -17,3 +17,4 @@ Uno de estos cursos es dictado por el Ministerio de Educación de la Ciudad de B
 * Proyectos C++
   * [Truco Argentino](https://github.com/Elljuanki47/TRUCO.git)
   * [Tic-Tac-Toe](https://github.com/Elljuanki47/Tic-Tac-Toe.git)
+  * [Yahtico](https://github.com/Elljuanki47/Yahtico.git)
