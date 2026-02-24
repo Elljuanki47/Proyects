@@ -1,7 +1,7 @@
 # Proyectos
 Proyectos personales
 
-¡Hola! Soy Juani Ignacio Zárate
+¡Hola! Soy Juan Ignacio Zárate
 
 Tengo 25 años y soy de Buenos Aires, Argentina. Actualmente estoy cursando el primer año de la Tecnicatura en Programación en la UTN (Universidad Tecnológica Nacional).
 
