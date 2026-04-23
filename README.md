@@ -24,3 +24,7 @@ Uno de estos cursos es dictado por el Ministerio de Educación de la Ciudad de B
 * Proyectos Python
   * [Gestor de productos](https://github.com/Elljuanki47/Gestor-de-productos.git)
   
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Data Analytics
+  * [Estudios ambientales de los ductos en Argentina](https://github.com/Elljuanki47/Estudios_Ductos)
