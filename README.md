@@ -1,35 +1,14 @@
-# Proyectos
-Proyectos personales
+# 📂 Projects Portfolio
 
-¡Hola! Soy Juan Ignacio Zárate
+Este repositorio reúne algunos de los proyectos que fui desarrollando durante mi formación como programador.
 
-Tengo 25 años y soy de Buenos Aires, Argentina. Actualmente estoy cursando el primer año de la Tecnicatura en Programación en la UTN (Universidad Tecnológica Nacional).
-
-Siempre tuve afinidad con la computación, pero fue en 2024 cuando decidí formarme de manera más estructurada para comenzar mi camino en el ámbito laboral IT. Mi primer acercamiento fue al análisis de datos, área en la que desarrollé un proyecto completo. Con el tiempo, descubrí que mi mayor interés estaba en la programación, por lo que decidí orientar mi formación en esa dirección.
-
-En la universidad, utilizando C++, desarrollamos un juego llamado Yatzy (Yahtzee) como proyecto académico.
-Actualmente me encuentro profundizando mis conocimientos en Python, realizando distintos cursos y proyectos prácticos.
-
-Uno de estos cursos es dictado por el Ministerio de Educación de la Ciudad de Buenos Aires, dentro del programa Buenos Aires Aprende – Agencia de Habilidades para el Futuro.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Proyectos C++
-  * [Truco Argentino](https://github.com/Elljuanki47/TRUCO.git)
-  * [Tic-Tac-Toe](https://github.com/Elljuanki47/Tic-Tac-Toe.git)
-  * [Yahtico](https://github.com/Elljuanki47/Yahtico.git)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Proyectos Python
-  * [Gestor de productos](https://github.com/Elljuanki47/Gestor-de-productos.git)
-  
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Proyectos Web
-  * [NEO Band Website](https://github.com/Elljuanki47/neo-band-website.git)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Data Analytics
-  * [Estudios ambientales de los ductos en Argentina](https://github.com/Elljuanki47/Estudios_Ductos)
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| 🌐 [NEO Band Website](https://github.com/Elljuanki47/neo-band-website) | Astro · Tailwind CSS | Sitio web profesional desarrollado para una banda de rock, con foco en responsive design y experiencia de usuario. |
+| 🤖 [AI Lab](https://github.com/Elljuanki47/ai-lab) | Python | Laboratorio personal donde experimento y aprendo Inteligencia Artificial desde cero, desarrollando asistentes, herramientas y conceptos paso a paso. |
+| 🏋️ Gym Management System | C++ | Sistema ABML para la administración de un gimnasio. *(Próximamente)* |
+| 🃏 [TRUCO](https://github.com/Elljuanki47/TRUCO) | C++ | Implementación del clásico juego de Truco aplicando programación orientada a objetos. |
+| 🎲 [Yahtico](https://github.com/Elljuanki47/Yahtico) | C++ | Juego inspirado en Yahtzee desarrollado como proyecto académico. |
+| ❌ [Tic-Tac-Toe](https://github.com/Elljuanki47/Tic-Tac-Toe) | C++ | Juego de Ta-Te-Ti implementado para practicar lógica de programación y POO. |
+| 📦 [Gestor de Productos](https://github.com/Elljuanki47/Gestor-de-productos) | C++ | Sistema ABML para la gestión de productos mediante archivos. |
+| 📊 [Estudios Ductos](https://github.com/Elljuanki47/Estudios_Ductos) | Power BI | Proyecto de análisis y visualización de datos mediante dashboards. |
