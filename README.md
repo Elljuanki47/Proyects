@@ -6,7 +6,7 @@ Este repositorio reúne algunos de los proyectos que fui desarrollando durante m
 |----------|-------------|-------------|
 | 🌐 [NEO Band Website](https://github.com/Elljuanki47/neo-band-website) | Astro · Tailwind CSS | Sitio web profesional desarrollado para una banda de rock, con foco en responsive design y experiencia de usuario. |
 | 🤖 [AI Lab](https://github.com/Elljuanki47/ai-lab) | Python | Laboratorio personal donde experimento y aprendo Inteligencia Artificial desde cero, desarrollando asistentes, herramientas y conceptos paso a paso. |
-| 🏋️ Gym Management System | C++ | Sistema ABML para la administración de un gimnasio. *(Próximamente)* |
+| 🏋️ [Gym Management System](https://github.com/Elljuanki47/gym-management-system) | C++ | Sistema ABML para la administración de un gimnasio. *(Próximamente)* |
 | 🃏 [TRUCO](https://github.com/Elljuanki47/TRUCO) | C++ | Implementación del clásico juego de Truco aplicando programación orientada a objetos. |
 | 🎲 [Yahtico](https://github.com/Elljuanki47/Yahtico) | C++ | Juego inspirado en Yahtzee desarrollado como proyecto académico. |
 | ❌ [Tic-Tac-Toe](https://github.com/Elljuanki47/Tic-Tac-Toe) | C++ | Juego de Ta-Te-Ti implementado para practicar lógica de programación y POO. |
